@@ -1,0 +1,38 @@
+body {
+  background-color: #137de8; 
+  background-image: url('abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  color: #333; 
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', Arial, sans-serif; 
+}
+
+p {
+  line-height: 1.6; 
+}
+
+code {
+  font-family: 'Fira Code', 'Courier New', monospace; 
+  font-size: 14px; 
+  background-color: #f0f0f0; 
+  color: #333; 
+  padding: 5px 10px; 
+  border-radius: 5px; 
+}
+
+pre {
+  overflow-x: auto; 
+}
+
+a {
+  color: #007bff; 
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline; 
+}
